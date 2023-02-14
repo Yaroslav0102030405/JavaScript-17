@@ -1,0 +1,19 @@
+{
+  "name": "js-lesson-17",
+  "version": "1.0.0",
+  "description": "- Терминал - [Шпаргалка 1](https://tproger.ru/translation/bash-cheatsheet/) - [Шпаргалка 2](https://harb.com/ru/company/ruvds/blog/445270/)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaroslav0102030405/JS-lesson-17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaroslav0102030405/JS-lesson-17/issues"
+  },
+  "homepage": "https://github.com/Yaroslav0102030405/JS-lesson-17#readme"
+}
