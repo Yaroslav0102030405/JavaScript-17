@@ -39,6 +39,7 @@
 - CLI и npm-скрипты
 - Пресеты
 - [Browserslist](https://github.com/browserslist/browserslist)
+
 - [Сборщик Parcel](https://)
 - [ECMAScript модули](https://exploringjs.com/es6/ch_modules.html)
 - Дефолтный (default) експорт и импорт
