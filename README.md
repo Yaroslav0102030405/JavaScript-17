@@ -1,6 +1,6 @@
 # JS-lesson-17
  
-- Терминал
+- Терминал-
 - [Шпаргалка 1](https://tproger.ru/translation/bash-cheatsheet/)
 - [Шпаргалка 2](https://harb.com/ru/company/ruvds/blog/445270/)
 
