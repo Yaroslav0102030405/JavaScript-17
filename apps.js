@@ -8,8 +8,9 @@ const express = require('express');
 
 const app = express();
 
-app.use('*', () => {
+app.use('*', (req, res) => {
   console.log('Был запрос от брайзера');
+  res.send('<h1>Ну это мой HTML тебе в ответ</h1>')
 });
 
 const listener = app.listen(4444, () => {
