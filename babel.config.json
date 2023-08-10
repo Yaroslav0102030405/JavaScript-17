@@ -1,3 +1,4 @@
+// фаил настроек бабила
 {
     "presets": ["@babel/preset-env"]
   }
