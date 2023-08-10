@@ -4,9 +4,9 @@
   "description": "- Терминал - [Шпаргалка 1](https://tproger.ru/translation/bash-cheatsheet/) - [Шпаргалка 2](https://harb.com/ru/company/ruvds/blog/445270/)",
   "main": "app.js",
   "scripts": {
-    "start": "node apps.js",
+    "server": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d lib"
+    "build": "babel src -d lib" 
   },
   "repository": {
     "type": "git",
