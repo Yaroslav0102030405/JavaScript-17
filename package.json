@@ -2,7 +2,6 @@
   "name": "my-project",
   "source": "src/index.html",
   "main": "dist/main.js",
-  "module": "dist/module.js",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "watch": "parcel watch",

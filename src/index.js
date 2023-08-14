@@ -1,3 +1,4 @@
+import "./style.css"
 
 import "./js/modal";
 import "./js/mobal-menu";
